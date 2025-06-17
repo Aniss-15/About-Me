@@ -1,5 +1,4 @@
-# 💫 About Me:
-cybersecurity student<br>
+
 
 
 # 💻 Tech Stack:
