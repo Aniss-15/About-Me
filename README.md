@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anis Chebbi</h1>
-<h3 align="center">Cybersecurity Engineering Student | DevOps & SIEM Enthusiast</h3>
+<h3 align="center">Cybersecurity Engineering Student | SIEM & SOAR Enthusiast | DevOps & DevSecOps</h3>
 
 ---
 
@@ -22,7 +22,7 @@
 
 ### 🛠️ Languages and Tools
 <p>
-<img src="https://skillicons.dev/icons?i=linux,python,bash,docker,kubernetes,git,mysql,ubuntu,windows"/>
+<img src="https://skillicons.dev/icons?i=linux,python,bash,docker,git,mysql,ubuntu,windows,Shuffle,Wazuh,Grafana,PfSense,"/>
 </p>
 
 ---
