@@ -22,7 +22,7 @@
 
 ### 🛠️ Languages and Tools
 <p>
-<img src="https://skillicons.dev/icons?i=linux,python,bash,docker,git,mysql,ubuntu,windows,grafana,zabbix,php"/>
+<img src="https://skillicons.dev/icons?i=linux,python,bash,docker,git,mysql,ubuntu,windows,grafana,c,c++,php"/>
 </p>
 
 ---
