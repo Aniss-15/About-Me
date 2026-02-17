@@ -20,18 +20,18 @@
 
 ---
 
-<h2 align="center">🚀💻 Cybersecurity, Software Engineering & DevSecOps Arsenal</h2>
+<h2 align="center">🚀💻 Cybersecurity, Software Engineering & DevSecOps Stack</h2>
 
 <p align="center">
-  <!-- Core Technologies -->
+  <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,python,bash,php,java,docker,git,jenkins,mysql,html,css,angular,qt" />
   
-  <!-- Cybersecurity Stack -->
+  <!-- Security Tools -->
+  <img src="https://cdn.worldvectorlogo.com/logos/pfsense.svg" height="48" alt="pfSense"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/snort-1.svg" height="48" alt="Snort"/>
   <img src="https://avatars.githubusercontent.com/u/11663345?s=200&v=4" height="48" alt="Wazuh"/>
   <img src="https://avatars.githubusercontent.com/u/65130129?s=200&v=4" height="48" alt="Shuffle"/>
   <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" height="48" alt="n8n"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Pfsense_logo.png" height="48" alt="pfSense"/>
-  <img src="https://www.snort.org/assets/images/snort_logo.png" height="48" alt="Snort"/>
 </p>
 
 <p align="center">
