@@ -22,18 +22,11 @@
 
 ### 🛠️ Languages and Tools
 <p>
-<img src="https://skillicons.dev/icons?i=linux,python,bash,docker,git,mysql,ubuntu,windows,grafana,php,jenkins,spring,html,angular,qt,mistral,openai"/>
+<img src="https://skillicons.dev/icons?i=linux,python,bash,docker,git,mysql,ubuntu,windows,php,jenkins,spring,html,angular,qt,mistral,openai,symfony"/>
 </p>
 
 --
-### 🔐 Security Stack
-<p>
-  <img src="https://avatars.githubusercontent.com/u/11663345?s=200&v=4" height="50" alt="Wazuh"/>
-  <img src="https://avatars.githubusercontent.com/u/65130129?s=200&v=4" height="50" alt="Shuffle"/>
-  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" height="50" alt="n8n"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Pfsense_logo.png" height="50" alt="pfSense"/>
-  <img src="https://www.snort.org/assets/images/snort_logo.png" height="50" alt="Snort"/>
-</p>
+
 
 
 ### 📊 GitHub Stats
