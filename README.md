@@ -22,7 +22,7 @@
 
 ### 🛠️ Languages and Tools
 <p>
-<img src="https://skillicons.dev/icons?i=linux,python,bash,docker,git,mysql,ubuntu,windows,php,jenkins,spring,html,angular,qt,symfony,CSS,XAMMP,SQL,MySqlServer"/>
+<img src="https://skillicons.dev/icons?i=linux,python,bash,docker,git,mysql,ubuntu,windows,php,jenkins,spring,html,angular,qt,symfony,css,xammp"/>
 </p>
 
 --
