@@ -20,22 +20,18 @@
 
 ---
 
-<h2 align="center">🚀💻 Cybersecurity, Software Engineering & DevSecOps Stack</h2>
+<h2 align="center">🚀 Cybersecurity, Software Engineering & DevSecOps Stack</h2>
 
 <p align="center">
-  <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,python,bash,php,java,docker,git,jenkins,mysql,html,css,angular,qt" />
-  
-  <!-- Security Tools -->
-  <img src="https://cdn.worldvectorlogo.com/logos/pfsense.svg" height="48" alt="pfSense"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/snort-1.svg" height="48" alt="Snort"/>
-  <img src="https://avatars.githubusercontent.com/u/11663345?s=200&v=4" height="48" alt="Wazuh"/>
-  <img src="https://avatars.githubusercontent.com/u/65130129?s=200&v=4" height="48" alt="Shuffle"/>
-  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" height="48" alt="n8n"/>
 </p>
 
 <p align="center">
-  🔐 SIEM | SOAR | IDS/IPS | Firewall Management | Threat Detection | Incident Response | Log Analysis | Automation | DevOps
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wazuh-0052CC?style=for-the-badge&logo=wazuh&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shuffle-SOAR-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
 --
