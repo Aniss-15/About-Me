@@ -27,15 +27,29 @@
 </p>
 
 <p align="center">
+  <!-- Network & IDS -->
   <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OPNsense-F07C00?style=for-the-badge&logo=opnsense&logoColor=white"/>
   <img src="https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white"/>
+  
+  <!-- SIEM & Monitoring -->
   <img src="https://img.shields.io/badge/Wazuh-0052CC?style=for-the-badge&logo=wazuh&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  
+  <!-- SOAR & IR -->
   <img src="https://img.shields.io/badge/Shuffle-SOAR-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TheHive-FF6B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cortex-6C2BD9?style=for-the-badge"/>
+  
+  <!-- Threat Intel -->
+  <img src="https://img.shields.io/badge/MISP-FF6600?style=for-the-badge"/>
+  
+  <!-- DFIR -->
+  <img src="https://img.shields.io/badge/Velociraptor-2E8B57?style=for-the-badge"/>
+  
+  <!-- Automation -->
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
-
---
-
 
 
 ### 📊 GitHub Stats
