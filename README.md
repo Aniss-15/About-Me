@@ -23,7 +23,7 @@
 <h2 align="center">🚀 Cybersecurity, Software Engineering & DevSecOps Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,python,bash,php,java,docker,git,jenkins,mysql,html,css,angular,qt" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,python,bash,php,java,docker,git,mysql,html,css,angular,qt,powershell,sqlserver" />
 </p>
 
 <p align="center">
