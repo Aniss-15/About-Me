@@ -22,7 +22,9 @@
 
 ### 🛠️ Languages and Tools
 <p>
-<img src="https://skillicons.dev/icons?i=linux,python,bash,docker,git,mysql,ubuntu,windows,php,jenkins,spring,html,angular,qt,symfony,css,xammp"/>
+<img src="https://skillicons.dev/icons?i=linux,python,bash,docker,git,mysql,php,jenkins,spring,html,angular,qt,symfony,css"/>
+<img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" height="48" alt="XAMPP"/>
+
 </p>
 
 --
