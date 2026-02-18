@@ -16,7 +16,7 @@
 
 <div align="center"> 
   <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
-  <a href="mailto:anis.chebbi@example.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:chebbbi.anis@esprit.tn"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/anis-chebbi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
@@ -25,7 +25,7 @@
 <h2 align="center">🐍 Snake eating my contribution 🐍</h2>
 <br>
 <div align="center">
-  <img alt="snake eating my contribution" src="https://kamelfridhi.github.io/kamelfridhi/snake.svg">
+  <img alt="snake eating my contribution" src="https://Aniss-15.github.io/Aniss-15/snake.svg">
 </div>
 
 <hr>
@@ -34,7 +34,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,php,laravel,symfony,spring,angular,react,nodejs,nestjs,dotnet,java,c,cpp,cs,js,python,mysql,mongodb,linux,vscode,docker,github,git,jira" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,symfony,spring,angular,dotnet,java,c,cpp,cs,js,python,mysql,linux,vscode,docker,github,bash" />
   </a>
 </p>
 
