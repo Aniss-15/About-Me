@@ -1,16 +1,17 @@
 
-<p align="center">
-  <strong>
-  Hi, I'm Anis Chebbi 👋 <br>
-  Cybersecurity Enthusiast | DevSecOps | Cloud Security | Blue Teaming <br>
-  From Tunisia 🇹🇳
-  </strong>
-  <br><br>
+<div align="center">
+<strong>
+Hi, I'm Anis Chebbi 👋 <br>
+Cybersecurity Enthusiast | DevSecOps | Cloud Security | Blue Teaming <br>
+From Tunisia 🇹🇳
+</strong>
 
-  💻 Passionate about cybersecurity, cloud security, and automation. <br>
-  🧑‍💼 Computer Engineering Student at <a href="https://esprit.tn">ESPRIT</a> <br>
-  🔐 Interested in SIEM, Threat Detection, Incident Response, and Security Automation
-</p>
+<br><br>
+
+💻 Passionate about cybersecurity, cloud security, and automation. <br>
+🧑‍💼 Computer Engineering Student at <a href="https://esprit.tn">ESPRIT</a> <br>
+🔐 Interested in SIEM, Threat Detection, Incident Response, and Security Automation
+</div>
 
 <div align="center"> 
   <a href="mailto:chebbbi.anis@esprit.tn"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
