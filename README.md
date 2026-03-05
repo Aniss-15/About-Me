@@ -1,12 +1,12 @@
 
 <p align="center">
-  Hi, I'm Anis Chebbi Cybersecurity Enthusiast | DevSecOps | Cloud Security | Blue Teaming
- from Tunisia 🇹🇳
-  <br>
-  💻 I love to learn new technologies and frameworks.
-  <br>
-  🧑‍💼 I’m currently studying as a Computer Engineering Student at <a href="https://esprit.tn">ESPRIT</a>
-  <br>
+  Hi, I'm Anis Chebbi 👋 <br>
+  Cybersecurity Enthusiast | DevSecOps | Cloud Security | Blue Teaming <br>
+  From Tunisia 🇹🇳 <br><br>
+
+  💻 Passionate about cybersecurity, cloud security, and automation. <br>
+  🧑‍💼 Computer Engineering Student at <a href="https://esprit.tn">ESPRIT</a> <br>
+  🔐 Interested in SIEM, Threat Detection, Incident Response, and Security Automation
 </p>
 
 <div align="center"> 
