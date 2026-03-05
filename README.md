@@ -1,9 +1,3 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Anis+Chebbi!;&center=true&size=30">
-  </a>
-</h1>
-<br>
 
 <p align="center">
   Hi, I'm Anis Chebbi, Full Stack Web Developer & DevOps Engineering Student 🥷, Learner 👨‍💻 & gamer 🦸‍♂️ from Tunisia 🇹🇳
