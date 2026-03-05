@@ -13,21 +13,11 @@
   <a href="https://www.linkedin.com/in/chebbi-anis/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
-<hr>
-
-<h2 align="center">🐍 Snake eating my contribution 🐍</h2>
-<br>
-<div align="center">
-  <img alt="snake eating my contribution" src="https://Aniss-15.github.io/Aniss-15/snake.svg">
-</div>
-
-<hr>
-
 <h2 align="center">🔥 Languages & Frameworks 🔥</h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,symfony,spring,angular,dotnet,java,c,cpp,cs,js,python,mysql,linux,vscode,docker,github,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,symfony,spring,angular,dotnet,java,c,cpp,cs,js,python,mysql,linux,vscode,docker,github,bash,c++" />
   </a>
 </p>
 
