@@ -27,21 +27,15 @@ From Tunisia 🇹🇳
 
 <h2 align="center">🔧 DevOps & DevSecOps Tools 🔧</h2>
 <br>
+
 <p align="center">
-  <!-- DevOps Tools -->
-  <a href="https://www.jenkins.io" target="_blank"><img src="https://img.shields.io/badge/Jenkins-CB2029?style=for-the-badge&logo=jenkins&logoColor=white" /></a>
-  <a href="https://ngrok.com" target="_blank"><img src="https://img.shields.io/badge/Ngrok-29A8DF?style=for-the-badge&logo=ngrok&logoColor=white" /></a>
-  <a href="https://grafana.com" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
-  <a href="https://prometheus.io" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /></a>
 
-  <!-- DevSecOps Tools -->
-  <a href="https://www.sonarqube.org" target="_blank"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" /></a>
-  <a href="https://owasp.org/www-project-zap/" target="_blank"><img src="https://img.shields.io/badge/OWASP_ZAP-FF9900?style=for-the-badge&logo=owasp&logoColor=white" /></a>
-  <a href="https://owasp.org/www-project-dependency-check/" target="_blank"><img src="https://img.shields.io/badge/Dependency_Check-007396?style=for-the-badge&logo=owasp&logoColor=white" /></a>
-  <a href="https://aquasecurity.github.io/trivy/" target="_blank"><img src="https://img.shields.io/badge/Trivy-00BFFF?style=for-the-badge&logo=docker&logoColor=white" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+
 </p>
-
-<hr>
 
 
 <hr>
