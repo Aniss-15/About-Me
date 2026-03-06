@@ -5,9 +5,7 @@ Hi, I'm Anis Chebbi 👋 <br>
 Cybersecurity Enthusiast | DevSecOps | Cloud Security | Blue Teaming <br>
 From Tunisia 🇹🇳
 </strong>
-
 <br><br>
-
 💻 Passionate about cybersecurity, cloud security, and automation. <br>
 🧑‍💼 Computer Engineering Student at <a href="https://esprit.tn">ESPRIT</a> <br>
 🔐 Interested in SIEM, Threat Detection, Incident Response, and Security Automation
