@@ -23,6 +23,9 @@ From Tunisia 🇹🇳
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,symfony,spring,angular,dotnet,java,c,cpp,cs,js,python,mysql,linux,vscode,docker,github,bash,xampp"/>
   </a>
 </p>
+<p align="center">
+<img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" width="50"/>
+</p>
 
 <hr>
 
