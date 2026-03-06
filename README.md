@@ -20,7 +20,7 @@ From Tunisia 🇹🇳
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,symfony,spring,angular,dotnet,java,c,cpp,cs,js,python,mysql,linux,vscode,docker,github,bash,c++" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,symfony,spring,angular,dotnet,java,c,cpp,cs,js,python,mysql,linux,vscode,docker,github,bash,xampp" />
   </a>
 </p>
 
