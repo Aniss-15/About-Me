@@ -6,8 +6,8 @@ Cybersecurity Enthusiast | DevSecOps | Cloud Security | Blue Teaming <br>
 From Tunisia 🇹🇳
 </strong>
 <br><br>
+  🧑‍💼 Computer Engineering Student at <a href="https://esprit.tn">ESPRIT</a> Currently based in germany for exchange semesters in Philips Univesity of Marburg <br>
 💻 Passionate about cybersecurity, cloud security, and automation. <br>
-🧑‍💼 Computer Engineering Student at <a href="https://esprit.tn">ESPRIT</a> <br>
 🔐 Interested in SIEM, Threat Detection, Incident Response, and Security Automation
 </div>
 
