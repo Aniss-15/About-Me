@@ -20,13 +20,9 @@ From Tunisia 🇹🇳
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,symfony,spring,angular,dotnet,java,c,cpp,cs,js,python,mysql,linux,vscode,docker,github,bash,xampp"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,symfony,spring,angular,dotnet,java,c,cpp,cs,js,python,mysql,linux,vscode,docker,github,bash,qt"/>
   </a>
 </p>
-<p align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" width="50"/>
-</p>
-
 <hr>
 
 <h2 align="center">🔧 DevOps & DevSecOps Tools 🔧</h2>
