@@ -36,17 +36,17 @@ From Tunisia 🇹🇳
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/OWASP_ZAP_Logo.png" width="50"/>
+<img src="https://raw.githubusercontent.com/OWASP/www-project-zap/main/website/static/img/OWASP-ZAP-logo.png" width="50" title="OWASP ZAP"/>
 
 <br><br>
 
 <!-- Cybersecurity -->
 <img src="https://wazuh.com/uploads/2022/05/wazuh-logo.png" width="70" title="Wazuh"/>
 <img src="https://thehive-project.org/img/logo.png" width="70" title="TheHive"/>
-<img src="https://raw.githubusercontent.com/TheHive-Project/Cortex/master/docs/assets/logo.png" width="70" title="Cortex"/>
+<img src="https://thehive-project.github.io/Cortex/assets/logo.png" width="70" title="Cortex"/>
 <img src="https://www.misp-project.org/assets/images/misp-logo.png" width="70" title="MISP"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Pfsense_logo.png" width="70" title="pfSense"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Opnsense_logo.svg" width="70" title="OPNsense"/>
+<img src="https://opnsense.org/images/opnsense-logo.png" width="70" title="OPNsense"/>
 
 <br><br>
 
@@ -69,5 +69,3 @@ From Tunisia 🇹🇳
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Syslog_logo.png" width="60" title="Syslog"/>
 
 </p>
-
-<hr>
