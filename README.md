@@ -39,7 +39,6 @@ From Tunisia 🇹🇳
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
 ---
@@ -64,6 +63,10 @@ From Tunisia 🇹🇳
   <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white"/>
   <img src="https://img.shields.io/badge/HoneyPot_TPOT-FFD700?style=for-the-badge&logoColor=black"/>
   <img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white"/>
+
+
 </p>
 
 ---
@@ -73,7 +76,6 @@ From Tunisia 🇹🇳
 <p align="center">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white"/>
   <img src="https://img.shields.io/badge/VPN_IPSec-2C3E50?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -84,7 +86,6 @@ From Tunisia 🇹🇳
 <h2 align="center">📜 Certifications 📜</h2>
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/CEH-EC--Council-red?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco-Network_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cisco-CyberOps-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fortinet-Cloud_Security-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
@@ -100,15 +101,6 @@ From Tunisia 🇹🇳
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chebbianis&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
-
----
-
-<h2 align="center">🏆 TryHackMe 🏆</h2>
-<p align="center">
-  <a href="https://tryhackme.com/p/chebbianis">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/chebbianis.png" alt="TryHackMe Badge"/>
-  </a>
 </p>
 
 ---
