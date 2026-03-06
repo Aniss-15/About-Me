@@ -36,7 +36,6 @@ From Tunisia 🇹🇳
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50"/>
-<img src="https://raw.githubusercontent.com/OWASP/www-project-zap/main/website/static/img/OWASP-ZAP-logo.png" width="50" title="OWASP ZAP"/>
 
 <br><br>
 
