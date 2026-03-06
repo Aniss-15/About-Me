@@ -46,24 +46,5 @@ From Tunisia 🇹🇳
 
 <hr>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=anis-chebbi&show_icons=true&theme=react&hide_border=true&count_private=true" alt="Anis's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=anis-chebbi&theme=react&hide_border=true" alt="Anis's GitHub Streak Stats" />
-  </a>
-</p>
 
-<hr>
-
-<h2 align="center">📊 Most Used Languages 📊</h2>
-<br>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anis-chebbi&layout=compact&theme=react&hide_border=true" alt="Anis's Most Used Languages" />
-  </a>
-</p>
 <hr>
