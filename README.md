@@ -25,23 +25,49 @@ From Tunisia 🇹🇳
 </p>
 <hr>
 
-<h2 align="center">🔧 DevOps & DevSecOps Tools 🔧</h2>
+<h2 align="center">🔧 Cybersecurity & DevSecOps Tools 🔧</h2>
 <br>
 
 <p align="center">
 
-<p align="center">
+<!-- DevSecOps -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/OWASP_ZAP_Logo.png" width="50"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/OWASP_ZAP_Logo.png" width="50" title="OWASP ZAP"/>
+<br><br>
+
+<!-- Cybersecurity -->
+<img src="https://wazuh.com/uploads/2022/05/wazuh-logo.png" width="70" title="Wazuh"/>
+<img src="https://thehive-project.org/img/logo.png" width="70" title="TheHive"/>
+<img src="https://raw.githubusercontent.com/TheHive-Project/Cortex/master/docs/assets/logo.png" width="70" title="Cortex"/>
+<img src="https://www.misp-project.org/assets/images/misp-logo.png" width="70" title="MISP"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Pfsense_logo.png" width="70" title="pfSense"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Opnsense_logo.svg" width="70" title="OPNsense"/>
+
+<br><br>
+
+<!-- Systems & Monitoring -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50" title="Ubuntu"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" title="Windows Server"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Active_Directory_logo.svg" width="60" title="Active Directory"/>
+
+<br><br>
+
+<!-- DFIR & Automation -->
+<img src="https://docs.velociraptor.app/img/velociraptor.png" width="60" title="Velociraptor"/>
+<img src="https://shuffle.dev/img/logo.svg" width="60" title="Shuffle SOAR"/>
+<img src="https://n8n.io/images/n8n-logo.png" width="60" title="n8n"/>
+
+<br><br>
+
+<!-- Detection -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Sysmon_logo.png" width="60" title="Sysmon"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Syslog_logo.png" width="60" title="Syslog"/>
 
 </p>
-
-</p>
-
 
 <hr>
