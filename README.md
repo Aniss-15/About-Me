@@ -30,10 +30,22 @@ From Tunisia 🇹🇳
 
 <p align="center">
 
+<p align="center">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="50" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="DockerHub"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/OWASP_ZAP_Logo.png" width="50" title="OWASP ZAP"/>
+
+<img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" width="60" title="Trivy"/>
+
+</p>
 
 </p>
 
